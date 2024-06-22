@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceMaker", "InvoiceMaker\InvoiceMaker.csproj", "{478361E4-2485-40EC-AA8C-29A8EFA46C6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceMaker.Domain", "InvoiceMaker.Domain\InvoiceMaker.Domain.csproj", "{6AB42376-E3F8-4ED8-BEF4-B5F261A4D6A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceMaker.Infrastructure", "InvoiceMaker.Infrastructure\InvoiceMaker.Infrastructure.csproj", "{4512EDEB-3817-402F-9F9D-1B29D44A5B4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{478361E4-2485-40EC-AA8C-29A8EFA46C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478361E4-2485-40EC-AA8C-29A8EFA46C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478361E4-2485-40EC-AA8C-29A8EFA46C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478361E4-2485-40EC-AA8C-29A8EFA46C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AB42376-E3F8-4ED8-BEF4-B5F261A4D6A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB42376-E3F8-4ED8-BEF4-B5F261A4D6A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB42376-E3F8-4ED8-BEF4-B5F261A4D6A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB42376-E3F8-4ED8-BEF4-B5F261A4D6A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4512EDEB-3817-402F-9F9D-1B29D44A5B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4512EDEB-3817-402F-9F9D-1B29D44A5B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4512EDEB-3817-402F-9F9D-1B29D44A5B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4512EDEB-3817-402F-9F9D-1B29D44A5B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA6AE3B0-1A9F-4DD5-9855-163543B1959C}
+	EndGlobalSection
+EndGlobal
